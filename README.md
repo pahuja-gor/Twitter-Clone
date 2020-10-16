@@ -24,6 +24,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/rr4spkWtnr.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+---
+
 # Project 3 - *Tweety*
 
 **Tweety** is a basic twitter app to read your tweets.
